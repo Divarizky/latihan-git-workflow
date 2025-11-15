@@ -1,1 +1,2 @@
 fitur 1: menampilkan informasi profil pengguna
+fitur 2: tambah pengaturan pengguna
